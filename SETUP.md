@@ -23,3 +23,11 @@ yarn add -D eslint-plugin-react@latest @typescript-eslint/eslint-plugin@latest e
 ```shell
 yarn add -D prettier eslint-plugin-prettier eslint-config-prettier
 ```
+
+```shell
+yarn add styled-components next-images
+```
+
+```shell
+yarn add -D @types/styled-components babel-plugin-inline-react-svg
+```
